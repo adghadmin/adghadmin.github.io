@@ -9,7 +9,7 @@
       <p><b>email：yuhanyang_private@outlook.com</b></p>
     </td>
     <td width="25%">
-      <img src="/yuhanyang.JPG" width="100%">      
+      <img src="/yuhan.JPG" width="100%">      
     </td>
   </tr>
 </table>
