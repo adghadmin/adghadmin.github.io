@@ -16,7 +16,7 @@
 </table>
 
 ### Bio
-Yuhan Yang is currently pursuing the B.E. degree with the School of Computer Science and Technology, Shandong University, China. He is currently a research assistant in Computer Architecture and Embedded System Research Center, Shandong University. He is the recipient of the National Scholarship of China, which has been regarded as the highest honor for undergraduates in China, and a leader of the National College Students' Innovation and Entrepreneurship Training Program. His current research interests include computer architecture, storage systems, hardware/software codesign, and machine learning.
+Yuhan Yang is currently pursuing the B.E. degree with the School of Computer Science and Technology, Shandong University, China. He is currently a research assistant in Computer Architecture and Embedded System Research Center, Shandong University. He is a recipient of the National Scholarship of China, which has been regarded as the highest honor for undergraduates in China, and a leader of the National College Students' Innovation and Entrepreneurship Training Program. His current research interests include computer architecture, storage systems, hardware/software codesign, and machine learning.
 
 ### Education
 #### Undergraduate Student | Sept. 2018 – Jun. 2022 | Shandong University, China
