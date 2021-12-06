@@ -23,11 +23,18 @@ Yuhan Yang is currently pursuing the B.E. degree with the School of Computer Sci
 Major: Computer Science and Technology  
 GPA: 92.62/100&nbsp;&nbsp;3.93/4.00(WES)&nbsp;&nbsp;Major GPA: 94.29/100&nbsp;&nbsp;3.98/4.00(WES)
 
+### Experience
+#### Research Assistant | Computer Architecture and Embedded System Research Center, Shandong University | Feb. 2020 - Present
+Supervised by [Dr. Zhaoyan Shen](https://szyatsdu.github.io/shenzhaoyan.git.io/zhaoyan_shen.html)
+·	Project 1: Design of Blockchain System Based on Cryptographic Algorithms and FPGA Implementation – Obtain a patent, software copyright, and win many awards in competitions.
+·	Project 2: A Framework for ReRAM-Based DNN Accelerator, accepted by MSC@ESWEEK 2021.
+·	Project 3: A Reinforcement Learning-Assisted Cache Cleaning Scheme for SMR disks, submitted to IEEE Transactions on Computers, as the co-first author.
+
+
 
 
 ·	GRE General Test: 325+4.5  TOEFL: 103
 
-You can use the [editor on GitHub](https://github.com/adghadmin/adghadmin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 
 
