@@ -53,14 +53,9 @@ Course: Data Structures and Algorithms.
 #### Interdisciplinary Contest In Modeling : Meritorious Winner (2020)  
 #### National Mathematics Competition for College Students: National Third Prize (2020)  
 
-
-
-
-
-
-
-
-GRE General Test: 325+4.5  TOEFL: 103
+### English Abilities
+#### GRE General Test: 325+4.5  
+#### TOEFL: 103
 
 
 
