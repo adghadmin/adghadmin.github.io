@@ -55,6 +55,6 @@ Yuhan Yang is currently pursuing the B.E. degree with the School of Computer Sci
 - National Mathematics Competition for College Students: National Third Prize (2020)  
 
 ### English Abilities
-- [GRE General Test](https://github.com/adghadmin/adghadmin.github.io/blob/55e0651e82effce323ecfacd5388fb045ee21ee8/GRE%20unofficial%20score%20report.pdf): 156(Verbal), 170(Quantitative), 4.5(Analytical Writing)   
-- [TOEFL](https://github.com/adghadmin/adghadmin.github.io/blob/55e0651e82effce323ecfacd5388fb045ee21ee8/TOEFL%20unofficial%20score%20report.pdf): 103
+- [GRE General Test](https://github.com/adghadmin/adghadmin.github.io/blob/55e0651e82effce323ecfacd5388fb045ee21ee8/GRE%20unofficial%20score%20report.pdf): 156 (Verbal), 170 (Quantitative), 4.5 (Analytical Writing)   
+- [TOEFL iBT](https://github.com/adghadmin/adghadmin.github.io/blob/55e0651e82effce323ecfacd5388fb045ee21ee8/TOEFL%20unofficial%20score%20report.pdf): 103
 
