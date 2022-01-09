@@ -21,7 +21,7 @@ Yuhan Yang is currently pursuing the B.E. degree with the School of Computer Sci
 ### Education
 #### Undergraduate Student | Sept. 2018 – Jun. 2022 | Shandong University, China
 - Major: Computer Science and Technology  
-- GPA: 92.62/100&nbsp;&nbsp;3.93/4.00(WES)&nbsp;&nbsp;Major GPA: 94.29/100&nbsp;&nbsp;3.98/4.00(WES)
+- GPA: 92.62/100&nbsp;&nbsp;3.96/4.00([WES accredited](https://github.com/adghadmin/adghadmin.github.io/blob/083093f2de57ab9e0b0d200b993a7c78e1e910aa/WES%20accredited.pdf))&nbsp;&nbsp;Major GPA: 94.29/100&nbsp;&nbsp;3.98/4.00(WES)
 
 ### Experience
 #### Research Assistant | Computer Architecture and Embedded System Research Center, Shandong University | Feb. 2020 - Present
